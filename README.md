@@ -12,4 +12,3 @@
 
 4. Enter a URL in the input field and wait for the results ⌛
 
-5. To use it as a REST API, keep the server running and frame the URL as `http://0.0.0.0:8000/api/?url=URL_TO_BE_CRAWLED`. Example: `http://0.0.0.0:8000/api/?url=google.com` 🚀
